@@ -1,0 +1,122 @@
+Cmp-Mod V01 Created by CvPcb (2013-07-07 BZR 4022)-stable date = 30/07/2014 23:14:45
+
+BeginCmp
+TimeStamp = /52CA702D;
+Reference = C1;
+ValeurCmp = 100nF;
+IdModule  = c_1206;
+EndCmp
+
+BeginCmp
+TimeStamp = /5324BB78;
+Reference = C2;
+ValeurCmp = 10uF;
+IdModule  = c_tant_B;
+EndCmp
+
+BeginCmp
+TimeStamp = /52C9CCA2;
+Reference = D1;
+ValeurCmp = LED;
+IdModule  = SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /52C9CD5B;
+Reference = D2;
+ValeurCmp = LED;
+IdModule  = SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /52C9CCE6;
+Reference = D3;
+ValeurCmp = LED;
+IdModule  = SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /52C9CD55;
+Reference = D4;
+ValeurCmp = LED;
+IdModule  = SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /52C9CC13;
+Reference = D5;
+ValeurCmp = LED;
+IdModule  = SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /52C9CD99;
+Reference = D6;
+ValeurCmp = LED;
+IdModule  = SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /52C9CCE0;
+Reference = D7;
+ValeurCmp = LED;
+IdModule  = SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /52C9CD93;
+Reference = D8;
+ValeurCmp = LED;
+IdModule  = SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /52BED7E9;
+Reference = IC1;
+ValeurCmp = ATTINY13A-So8;
+IdModule  = so-8;
+EndCmp
+
+BeginCmp
+TimeStamp = /53388D4A;
+Reference = PW1;
+ValeurCmp = 5V;
+IdModule  = pinhead-1-2X01;
+EndCmp
+
+BeginCmp
+TimeStamp = /53B81C3F;
+Reference = R1;
+ValeurCmp = R;
+IdModule  = SM1206;
+EndCmp
+
+BeginCmp
+TimeStamp = /52C9CD43;
+Reference = R2;
+ValeurCmp = R;
+IdModule  = SM1206;
+EndCmp
+
+BeginCmp
+TimeStamp = /52C9CD9F;
+Reference = R3;
+ValeurCmp = R;
+IdModule  = SM1206;
+EndCmp
+
+BeginCmp
+TimeStamp = /52C9CDA5;
+Reference = R4;
+ValeurCmp = R;
+IdModule  = SM1206;
+EndCmp
+
+BeginCmp
+TimeStamp = /52CA7003;
+Reference = R9;
+ValeurCmp = 10K;
+IdModule  = SM1206;
+EndCmp
+
+EndListe
